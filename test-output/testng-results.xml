@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15" started-at="2016-06-11T07:45:43Z" finished-at="2016-06-11T07:45:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15" started-at="2016-06-11T07:45:43Z" finished-at="2016-06-11T07:45:43Z">
+      <class name="testcases.TestCase">
+        <test-method status="PASS" signature="Test1()[pri:0, instance:testcases.TestCase@5bc3efa4]" name="Test1" duration-ms="0" started-at="2016-06-11T13:15:43Z" finished-at="2016-06-11T13:15:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="Test4()[pri:0, instance:testcases.TestCase@5bc3efa4]" name="Test4" duration-ms="0" started-at="2016-06-11T13:15:43Z" finished-at="2016-06-11T13:15:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:testcases.TestCase@5bc3efa4]" name="Test2" duration-ms="0" started-at="2016-06-11T13:15:43Z" finished-at="2016-06-11T13:15:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:testcases.TestCase@5bc3efa4]" name="Test3" duration-ms="0" started-at="2016-06-11T13:15:43Z" finished-at="2016-06-11T13:15:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+      </class> <!-- testcases.TestCase -->
+      <class name="testcases.Recharge">
+        <test-method status="PASS" signature="Hello()[pri:1, instance:testcases.Recharge@753cafa3]" name="Hello" duration-ms="15" started-at="2016-06-11T13:15:43Z" finished-at="2016-06-11T13:15:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hello -->
+      </class> <!-- testcases.Recharge -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
