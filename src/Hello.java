@@ -27,7 +27,7 @@ public class Hello {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.justrechargeit.com/");
 		
-		WebDriverWait wait = new WebDriverWait(driver, 400, 10000);
+		WebDriverWait wait = new WebDriverWait(driver, 400, 8000);
 		wait.until(ExpectedConditions.elementToBeClickable(By.xpath("")));
 		
 		
